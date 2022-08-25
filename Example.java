@@ -7,3 +7,5 @@ I have created Example.java class
   }
 
 // We need to create a method for ChromeDriver
+
+// I am commenting this under MyNewBranch
