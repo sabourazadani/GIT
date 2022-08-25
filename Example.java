@@ -5,3 +5,5 @@ I have created Example.java class
   public void Example (){
     System.out.println("Printing the Example.java"); 
   }
+
+// We need to create a method for ChromeDriver
